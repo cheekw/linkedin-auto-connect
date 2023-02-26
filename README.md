@@ -9,5 +9,5 @@ Use at your own discretion. You may get banned from Linkedin.
 
 ## Usage
 
-```jupyter notebook ```
+```jupyter notebook ```</br>
 run all
