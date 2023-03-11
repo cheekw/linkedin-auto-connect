@@ -10,6 +10,6 @@ Use at your own discretion. You may get banned from Linkedin.
 ## Usage
 
 Place chromedriver 110 into directory.</br>
-Place data.csv into directory with all linkedin links in column 1.</br>
+Place data.csv into directory with all linkedin links in column 2.</br>
 ```jupyter notebook ```</br>
 run all
